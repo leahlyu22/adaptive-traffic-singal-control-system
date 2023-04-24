@@ -54,5 +54,13 @@ Overall, the model works well and the queue length at each intersection reduces 
 More information should be collected to use the model in the real world (more precise road map, traffic flow information, vehicle speed). The pedestrian signal should also be taken into consideration. The model should be tested at different time periods of the day.
 
 
-
+# Citation
+```
+@article{chu2019multi,
+  title={Multi-Agent Deep Reinforcement Learning for Large-Scale Traffic Signal Control},
+  author={Chu, Tianshu and Wang, Jie and Codec{\`a}, Lara and Li, Zhaojian},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2019},
+  publisher={IEEE}
+}
 
