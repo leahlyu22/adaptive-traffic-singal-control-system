@@ -32,7 +32,8 @@ Map data are created by me using SUMO (Simulation of Urban MObility). Special la
 
 
 Below is an example of executing the traffic simulation with Sumo-gui.
-<img src=./img/roadnet_testing.gif  width="300" height=""/>
+
+<img src=./img/roadnet_testing.gif  width="600" height=""/>
 
 ---
 
